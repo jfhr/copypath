@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyToClipboard", "CopyToClipboard\CopyToClipboard.csproj", "{96DE0A84-6F8F-4F80-951E-047B2A7F512F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{290FD5A0-0FEB-41F4-A092-33F42C160285}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+		Screenshot.png = Screenshot.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96DE0A84-6F8F-4F80-951E-047B2A7F512F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DE0A84-6F8F-4F80-951E-047B2A7F512F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DE0A84-6F8F-4F80-951E-047B2A7F512F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DE0A84-6F8F-4F80-951E-047B2A7F512F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {877995E4-C6CA-469C-A43E-11401F012647}
+	EndGlobalSection
+EndGlobal
