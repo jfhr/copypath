@@ -9,7 +9,7 @@ namespace CopyToClipboard
 {
     class Program
     {
-        const string IconPath = @"%SystenRoot%\system32\shell32.dll,605";
+        const string IconPath = @"%SystemRoot%\system32\shell32.dll,-148";
         const string CommandLabel = "Copy file path";
 
         [STAThread]
