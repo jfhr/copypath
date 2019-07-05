@@ -4,7 +4,7 @@ Tiny .NET program that lets you copy the full path of a file/folder from within 
 
 ## Build Instructions
 
-* If you haven't already, install [Visual Studio 2017](https://visualstudio.microsoft.com/vs/).  When installing, make sure you select the required .NET framework tools (.NET Version 4.7.2 is recommended, but anything from 3.0 should work)
+* If you haven't already, install [Visual Studio 2017 or newer](https://visualstudio.microsoft.com/vs/).  When installing, make sure you select the required .NET framework tools (.NET Version 4.7.2 is recommended, but anything from 3.0 should work)
 * Open file CopyToClipboard.sln
 * Select Configuration "Release"
 * Select Build > Build Solution
